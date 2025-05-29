@@ -21,4 +21,4 @@ spoken - this is a very complex piece of software which targets a bleeding-edge,
 Mistakes happen, and no matter how hard you try and whether you pay someone to audit it, it may eat your tokens, set
 your printer on fire or startle your cat. Cryptocurrencies are a high-risk investment, no matter how fancy.
 
-Small change :) Another small change :)
+Small change :) Another small change :) Again!
