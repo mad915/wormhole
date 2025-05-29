@@ -13,6 +13,9 @@ jobs:
   run-on-mod: 
     runs-on: ubuntu-24.04
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Or your preferred/latest version
+        # This step checks out your repository code into GITHUB_WORKSPACE
       - name: Add comment to PR
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Authenticate GitHub CLI via GITHUB TOKEN
